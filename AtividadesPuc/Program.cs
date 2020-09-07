@@ -3,6 +3,7 @@ using AtividadesPuc.Atividade01.Questao07;
 using AtividadesPuc.Atividade01.Questao08;
 using AtividadesPuc.Atividade01.Questao09;
 using System;
+using System.Globalization;
 
 namespace AtividadesPuc
 {
@@ -49,7 +50,7 @@ namespace AtividadesPuc
                     break;
             }
 
-            
+
         }
     }
 }

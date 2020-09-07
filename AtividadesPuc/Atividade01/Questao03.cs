@@ -11,7 +11,8 @@ namespace AtividadesPuc.Atividade01
         {
 
             Stack dados3 = new Stack();
-            int soma = 0, media;
+            int soma = 0;
+            double media;
 
             Console.WriteLine("\n\n::::::::::::::::Stack::::::::::::::::\n");
 

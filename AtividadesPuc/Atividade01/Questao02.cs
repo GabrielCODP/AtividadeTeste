@@ -10,7 +10,8 @@ namespace AtividadesPuc.Atividade01
         public static void Rodar()
         {
             Queue dados2 = new Queue();
-            int soma = 0,media;
+            int soma = 0;
+            double media;
 
             Console.WriteLine("\n\n::::::::::::::::Queue::::::::::::::::\n");
 

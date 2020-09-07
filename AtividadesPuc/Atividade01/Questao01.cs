@@ -10,7 +10,8 @@ namespace AtividadesPuc.Atividade01
         public static void Rodar()
         {
             ArrayList dados = new ArrayList();
-            int soma = 0, media;
+            int soma = 0;
+            double media;
 
             Console.Write("Informe N números inteiros: ");
             int n = int.Parse(Console.ReadLine());

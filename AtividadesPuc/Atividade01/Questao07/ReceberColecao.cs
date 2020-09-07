@@ -25,10 +25,10 @@ namespace AtividadesPuc.Atividade01.Questao07
             }
         }
 
-        public static void ReceberArray(ArrayList dados)// Nem sei se isso da certo, só testando coisas aletoria.
-        {
+        //public static void ReceberArray(ArrayList dados)// Nem sei se isso da certo, só testando coisas aletoria.
+        //{
             
 
-        }
+        //}
     }
 }
